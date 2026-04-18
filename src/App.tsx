@@ -17,6 +17,7 @@ const App = () => {
       <E />
     </CountProvider> */}
     <Redux/>
+    <Ashutosh/>
 
     </div>
   )
