@@ -9,3 +9,4 @@ const C = ({ count, setCount }: any) => {
 };
 
 export default C;
+
